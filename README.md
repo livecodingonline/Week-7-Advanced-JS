@@ -1,7 +1,7 @@
 # Week-7-Advanced-JS
 ## Advanced Javascript and DOM Manipulation
 
-##### In week one we will discuss the following topics:
+##### In week seven we will discuss the following topics:
 - Event listeners
 - Higher order functions
 - Play sounds on a website
