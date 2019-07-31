@@ -1,4 +1,4 @@
-# Week-7-Advanced-JS
+## Week-7-Advanced-JS
 ## Advanced Javascript and DOM Manipulation
 
 ##### In week seven we will discuss the following topics:
